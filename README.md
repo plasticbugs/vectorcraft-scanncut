@@ -8,7 +8,7 @@ works in the VectorCraft desktop app and in the browser version.
 
 ![The ScanNCut FCM export options](docs/images/3-export-options.png)
 
-## Installation guide (for dummies)
+## Installation guide (for dummies like me!)
 
 You only need to do this once.
 
