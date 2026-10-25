@@ -1,0 +1,15 @@
+[package]
+name = "host-check"
+description = "Runs the FCM exporter plug-in through VectorCraft's own plug-in host, as File › Export › Export As does"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+publish = false
+
+# Standalone: not part of the plug-in's build.
+[workspace]
+
+[dependencies]
+vectorcraft-plugins = { path = "../../../vectorcraft/crates/plugins" }
+serde_json = "1"
+base64 = "0.22"
